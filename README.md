@@ -1,5 +1,5 @@
-import java.util.Scanner;
-
+Create a design for the mark sheet by taking runtime value of student name, total marks, obtained marks and calculate its percentage, grade and GPA. Use good practices of programming that we have studied and ensure that the outcomes should be presented in a proper Viewable approach
+    import java.util.Scanner;
     public class Wasay {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
