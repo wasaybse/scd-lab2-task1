@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Wasay {
+    public class Wasay {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Student Name: ");
